@@ -1,0 +1,20 @@
+﻿  Tank.cpp
+C:\Users\chris\OneDrive\Documents\GitHub\IGME209\SFML_Template\SFML_Template\Tank.cpp(70,77): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\chris\OneDrive\Documents\GitHub\IGME209\SFML_Template\SFML_Template\Tank.cpp(72,77): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+  SFML_Template.vcxproj -> C:\Users\chris\OneDrive\Documents\GitHub\IGME209\SFML_Template\Debug\SFML_Template.exe

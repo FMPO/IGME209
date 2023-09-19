@@ -1,0 +1,14 @@
+﻿  Source.cpp
+C:\Users\chris\OneDrive\Documents\GitHub\IGME209\Practice\P01\Source.cpp(7,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+C:\Users\chris\OneDrive\Documents\GitHub\IGME209\Practice\P01\Source.cpp(7,9): message : consider using '%zd' in the format string
+C:\Users\chris\OneDrive\Documents\GitHub\IGME209\Practice\P01\Source.cpp(8,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+C:\Users\chris\OneDrive\Documents\GitHub\IGME209\Practice\P01\Source.cpp(8,9): message : consider using '%zd' in the format string
+C:\Users\chris\OneDrive\Documents\GitHub\IGME209\Practice\P01\Source.cpp(9,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+C:\Users\chris\OneDrive\Documents\GitHub\IGME209\Practice\P01\Source.cpp(9,9): message : consider using '%zd' in the format string
+C:\Users\chris\OneDrive\Documents\GitHub\IGME209\Practice\P01\Source.cpp(11,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+C:\Users\chris\OneDrive\Documents\GitHub\IGME209\Practice\P01\Source.cpp(11,9): message : consider using '%zd' in the format string
+C:\Users\chris\OneDrive\Documents\GitHub\IGME209\Practice\P01\Source.cpp(12,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+C:\Users\chris\OneDrive\Documents\GitHub\IGME209\Practice\P01\Source.cpp(12,9): message : consider using '%zd' in the format string
+C:\Users\chris\OneDrive\Documents\GitHub\IGME209\Practice\P01\Source.cpp(14,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+C:\Users\chris\OneDrive\Documents\GitHub\IGME209\Practice\P01\Source.cpp(14,9): message : consider using '%zd' in the format string
+  P01.vcxproj -> C:\Users\chris\OneDrive\Documents\GitHub\IGME209\Practice\x64\Debug\P01.exe

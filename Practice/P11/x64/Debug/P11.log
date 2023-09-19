@@ -1,0 +1,7 @@
+﻿  P11_Bird.cpp
+  P11_EnemyClass.cpp
+  P11_Shape.cpp
+C:\Users\chris\OneDrive\Documents\GitHub\IGME209\Practice\P11\P11_Shape.cpp(22,22): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\chris\OneDrive\Documents\GitHub\IGME209\Practice\P11\P11_Shape.cpp(34,13): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  P11.vcxproj -> C:\Users\chris\OneDrive\Documents\GitHub\IGME209\Practice\x64\Debug\P11.exe

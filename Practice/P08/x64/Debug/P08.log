@@ -1,0 +1,6 @@
+﻿  Source_01.cpp
+  Source_02.cpp
+  Source_03.cpp
+  Generating Code...
+C:\Users\chris\OneDrive\Documents\GitHub\IGME209\Practice\P08\Source_02.cpp(23): warning C4715: 'Queue::enqueue': not all control paths return a value
+  P08.vcxproj -> C:\Users\chris\OneDrive\Documents\GitHub\IGME209\Practice\x64\Debug\P08.exe

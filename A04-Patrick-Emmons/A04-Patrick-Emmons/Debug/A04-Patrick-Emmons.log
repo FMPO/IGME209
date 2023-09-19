@@ -1,0 +1,19 @@
+﻿  YourAIController.cpp
+C:\Users\chris\OneDrive\Documents\GitHub\IGME209\A04-Patrick-Emmons\A04-Patrick-Emmons\Tank.h(77,29): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\chris\OneDrive\Documents\GitHub\IGME209\A04-Patrick-Emmons\A04-Patrick-Emmons\Tank.h(78,32): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\chris\OneDrive\Documents\GitHub\IGME209\A04-Patrick-Emmons\A04-Patrick-Emmons\InformationYouCanGet.h(66,79): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\chris\OneDrive\Documents\GitHub\IGME209\A04-Patrick-Emmons\A04-Patrick-Emmons\InformationYouCanGet.h(69,88): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\chris\OneDrive\Documents\GitHub\IGME209\A04-Patrick-Emmons\A04-Patrick-Emmons\InformationYouCanGet.h(72,82): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\chris\OneDrive\Documents\GitHub\IGME209\A04-Patrick-Emmons\A04-Patrick-Emmons\InformationYouCanGet.h(75,91): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\chris\OneDrive\Documents\GitHub\IGME209\A04-Patrick-Emmons\A04-Patrick-Emmons\YourAIController.cpp(52,46): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+C:\Users\chris\OneDrive\Documents\GitHub\IGME209\A04-Patrick-Emmons\A04-Patrick-Emmons\YourAIController.cpp(79,44): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+C:\Users\chris\OneDrive\Documents\GitHub\IGME209\A04-Patrick-Emmons\A04-Patrick-Emmons\YourAIController.cpp(85,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\chris\OneDrive\Documents\GitHub\IGME209\A04-Patrick-Emmons\A04-Patrick-Emmons\YourAIController.cpp(87,30): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+C:\Users\chris\OneDrive\Documents\GitHub\IGME209\A04-Patrick-Emmons\A04-Patrick-Emmons\YourAIController.cpp(95,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\chris\OneDrive\Documents\GitHub\IGME209\A04-Patrick-Emmons\A04-Patrick-Emmons\YourAIController.cpp(102,46): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\chris\OneDrive\Documents\GitHub\IGME209\A04-Patrick-Emmons\A04-Patrick-Emmons\YourAIController.cpp(106,44): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\chris\OneDrive\Documents\GitHub\IGME209\A04-Patrick-Emmons\A04-Patrick-Emmons\YourAIController.cpp(109,45): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\chris\OneDrive\Documents\GitHub\IGME209\A04-Patrick-Emmons\A04-Patrick-Emmons\YourAIController.cpp(112,45): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\chris\OneDrive\Documents\GitHub\IGME209\A04-Patrick-Emmons\A04-Patrick-Emmons\YourAIController.cpp(115,42): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\chris\OneDrive\Documents\GitHub\IGME209\A04-Patrick-Emmons\A04-Patrick-Emmons\YourAIController.cpp(137,21): warning C4018: '<': signed/unsigned mismatch
+  A04-Patrick-Emmons.vcxproj -> C:\Users\chris\OneDrive\Documents\GitHub\IGME209\A04-Patrick-Emmons\Debug\A04-Patrick-Emmons.exe
